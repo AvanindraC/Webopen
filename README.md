@@ -23,7 +23,7 @@ Not tested yet
 
 Open your terminal and paste this
 
-```https://github.com/AvanindraC/Webopen.git```
+```git clone https://github.com/AvanindraC/Webopen.git```
 
 Then run the linux executable by typing 
 
